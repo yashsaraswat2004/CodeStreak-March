@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-
+// ------- ye wala Linear Search ke concept se ------------------------
 int findingSqrt(int num)
 {
     int ans = 0;
@@ -12,7 +12,7 @@ int findingSqrt(int num)
     }
     return -1;
 }
-
+// -------------- Ye wlaaa Binary Search ke concept se --------------------------------
 int FindingSquareRoot(int num)
 {
     int start = 0;
